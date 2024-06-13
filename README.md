@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🌱 I’m currently learning Flutter." alt="Typing Animation">
 </p>
 
-</br>
-
 # 📊 GitHub Stats:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kamrul-Hasan-2&theme=radical&hide_border=false&include_all_commits=true&count_private=false" /></br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamrul-Hasan-2&theme=radical&hide_border=false" /></br>
