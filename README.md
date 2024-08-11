@@ -1,26 +1,56 @@
+<!-- Cover Image -->
 <div align="left">
-<img src="/cover.png" alt="image">
+<img src="/Github_Cover.jpg" alt="image">
 </div> 
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ikramulhasantanvir) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ikramulhasantanvir) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ikramulhasantanvir) 
+###
+<!--social link -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/ikramulhasantanvir/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@multiState-cs" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.facebook.com/ikramulhasantanvir/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://dribbble.com/ikramulhasantanvir" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="dribbble logo"  />
+  </a>
+</div>
 
+###
+<!-- hey there -->
+<h1 align="center">hey there 👋</h1>
 
+###
+<!-- About Me -->
+<h3 align="left">👩‍💻  About Me</h3>
+
+<p align="left">I'm Tanvir from Bangladesh.<br><br>- 🔭Now I am studying in Ostad.<br></p>
 <!-- animation-taxt -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🌱 I’m currently learning Flutter." alt="Typing Animation">
 </p>
 
+###
+<!-- Language and tools -->
+<h3 align="left">🛠 Language and tools</h3>
 
-## 📌  I Use these:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+</div>
 
+###
+<!-- GitHub Status -->
+<h3 align="left">🔥   My Stats :</h3>
 
-## 📊 GitHub Stats:
  ![](https://github-readme-stats.vercel.app/api?username=ikramulhasantanvir&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ikramulhasantanvir&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+###
 <!-- profile_views -->
 [![](https://visitcount.itsvg.in/api?id=ikramulhasantanvir&icon=0&color=0)](https://visitcount.itsvg.in)
