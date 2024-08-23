@@ -1,6 +1,6 @@
 <!-- Cover Image -->
-<div align="left">
-<img src="/Github_Cover.jpg" alt="image">
+<div align="center">
+<img src="/cover.png" alt="image">
 </div> 
 
 ###
