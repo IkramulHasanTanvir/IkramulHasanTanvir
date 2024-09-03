@@ -1,6 +1,6 @@
 <!-- Cover Image -->
 <div align="center">
-<img src="/cover.png" alt="image">
+<img src="/coverFacebook.png" alt="image">
 </div> 
 
 ###
