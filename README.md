@@ -29,6 +29,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 <p align="left">I'm Tanvir from Bangladesh.<br><br>- 🔭Now I am studying in Ostad.<br></p>
+
 <!-- animation-taxt -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=🌱 I’m currently learning Flutter." alt="Typing Animation">
