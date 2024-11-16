@@ -28,7 +28,7 @@
 <!-- About Me -->
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">I'm Tanvir from Bangladesh.<br><br>- 🔭Now I am studying in Ostad.<br></p>
+<p align="left">I'm Tanvir from Bangladesh.<br><br>- 🔭Now I am working in BongoChat socal media app<br></p>
 
 <!-- animation-taxt -->
 <p align="left">
