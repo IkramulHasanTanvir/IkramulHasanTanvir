@@ -69,8 +69,3 @@ Hi! I'm <strong>Tanvir</strong> from Bangladesh.<br>
 </div>
 
 ###
-
-<!-- Profile Views -->
-<div align="center" style="margin-top: 15px;">
-  <img src="https://visitcount.itsvg.in/api?id=ikramulhasantanvir&icon=0&color=0&animation=glow" alt="Profile Views" />
-</div>
